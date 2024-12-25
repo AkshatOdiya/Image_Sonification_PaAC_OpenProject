@@ -26,3 +26,7 @@ Pixels are processed directly without combining or averaging.
 
 # Part3:
 
+This part contains the python file ('cli_tool_to_sonify.py') which can be used as a CLI Tool to convert the pngs in to the sound with two options (brightness based or RGB values based).
+The File can be run in cmd with command [python  python .\cli_tool_to_sonify.py]. It takes the images path you want to sonify. The example usage is shown below in the image.![Screenshot 2024-12-25 142138](https://github.com/user-attachments/assets/891762ee-d7fb-4176-a41e-c23644f7089c)
+
+
