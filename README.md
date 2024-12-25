@@ -5,7 +5,7 @@ This repository include the code followed for image sonification and use of tool
 
 It contains how pixel values of an image can be extracted for all three R,G,B column in the csv file.
 
----------------------------------------------------------------------------------------------------
+
 # Part2:
 
 The file "Mapping_and_Generating_Sound" (sound file: "image_sound_short.wav"),  contains code that is based on:
@@ -24,4 +24,5 @@ iii) B(Blue) ------------> Duration
 
 Pixels are processed directly without combining or averaging.
 
---------------------------------------------------------------------------------------------------
+# Part3:
+
